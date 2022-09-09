@@ -7,5 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jamersan <will@jamersan.com>",
-  "repository": "git@github.com:Jamersan/prettie.git"
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Jamersan/prettie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jamersan/prettie/issues"
+  },
+  "homepage": "https://github.com/Jamersan/prettie#readme",
+  "keywords": [
+    "Jamersan",
+    "Prettier",
+    "configuration",
+    "coding",
+    "standards"
+  ],
+  "license": "ISC"
 }
