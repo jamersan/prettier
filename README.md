@@ -1,4 +1,4 @@
-# `@jamersan/prettie`
+# `@jamersan/prettier`
 
 > Jamersan [Prettier](https://prettier.io) coding standards configuration.
 

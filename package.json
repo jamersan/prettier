@@ -1,0 +1,11 @@
+{
+  "name": "@jamersan/prettier",
+  "version": "1.0.0",
+  "description": "Jamersan Prettier configuration coding standards",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamersan <will@jamersan.com>",
+  "repository": "git@github.com:Jamersan/prettie.git"
+}
