@@ -16,4 +16,4 @@ $ npm install --save-dev @jamersan/prettier
 {
   "prettier": "@jamersan/prettier"
 }
-```j
+```
