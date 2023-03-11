@@ -14,7 +14,6 @@ $ npm install --save-dev @jamersan/prettier
 
 ```jsonc
 {
-  // ...
   "prettier": "@jamersan/prettier"
 }
 ```j

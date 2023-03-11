@@ -1,6 +1,6 @@
 {
   "name": "@jamersan/prettier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Jamersan Prettier configuration coding standards",
   "main": "index.json",
   "scripts": {
@@ -9,12 +9,12 @@
   "author": "Jamersan <will@jamersan.com>",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Jamersan/prettie.git"
+    "url": "git+ssh://git@github.com/Jamersan/prettier.git"
   },
   "bugs": {
-    "url": "https://github.com/Jamersan/prettie/issues"
+    "url": "https://github.com/Jamersan/prettier/issues"
   },
-  "homepage": "https://github.com/Jamersan/prettie#readme",
+  "homepage": "https://github.com/Jamersan/prettier#readme",
   "keywords": [
     "Jamersan",
     "Prettier",
